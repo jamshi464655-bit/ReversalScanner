@@ -1,6 +1,3 @@
 streamlit
-pandas
 yfinance
-streamlit-autorefresh
-https://github.com/twopirllc/pandas-ta/archive/refs/heads/development.zip
-numpy<2.0.0
+pandas
